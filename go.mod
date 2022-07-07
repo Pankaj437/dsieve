@@ -1,4 +1,4 @@
-module dsieve
+module github.com/Pankaj437/dsieve
 
 go 1.18
 
